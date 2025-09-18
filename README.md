@@ -1,4 +1,7 @@
 ---
+## 📡 Further Nmap
+
+---
 #### 🧭 Objectives
 - Deepen understanding of Nmap’s advanced scanning capabilities.
 - Learn how to identify services, operating systems, and vulnerabilities.
@@ -26,6 +29,6 @@
 ## ✅ Summary
 This room builds on scanning fundamentals by unlocking Nmap’s full potential. 
 
-Gain tactical control over scan types, evasion methods, and automation—essential for stealthy and efficient enumeration.
+Gain tactical control over scan types, evasion methods, and automation, essential for stealthy and efficient enumeration.
 
 ---
